@@ -1,6 +1,8 @@
 [![MasterHead](https://code.visualstudio.com/assets/docs/languages/tsql/save.gif)](https://github.com/hritika10)
 <h1 align="center">Hi 👋, I'm Hritika Pal</h1>
 <h3 align="center">Data engineering enthusiast from India</h3>
+<img align="right" alt="Coding" width="400" src="https://m.media-amazon.com/images/I/61nue6PtntL._SL1500_.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritika10&label=Profile%20views&color=0e75b6&style=flat" alt="hritika10" /> </p>
 
