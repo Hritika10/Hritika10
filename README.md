@@ -1,3 +1,4 @@
+[![MasterHead](https://code.visualstudio.com/assets/docs/languages/tsql/save.gif)](https://github.com/hritika10)
 <h1 align="center">Hi 👋, I'm Hritika Pal</h1>
 <h3 align="center">Data engineering enthusiast from India</h3>
 
